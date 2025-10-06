@@ -15,7 +15,6 @@ I turn complex data into actionable insights that enhance fraud prevention, risk
 - 🧠 **Advanced Machine Learning** (XGBoost, LightGBM, SHAP explainability)  
 - ⚙️ **MLOps & Deployment** — building real-time inference APIs with **Flask** and **FastAPI**  
 - 📈 **Dashboard Design** — creating interactive analytics tools using **Plotly Dash** and **Streamlit**  
-- ☁️ **Cloud Data Tools** — experimenting with **Azure Data Studio** and **Google BigQuery**  
 - 🔐 **Fraud Analytics & FinCrime AI** — applying ML to AML/KYC and transaction monitoring frameworks
    
 ---
