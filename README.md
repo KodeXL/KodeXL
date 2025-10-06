@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ola
+- 👋 Hi, I am Ola
  
-I’m a data-driven professional at the intersection of **data science**, **financial crime analytics**, and **machine learning**.  
+I am a data-driven professional at the intersection of **data science**, **financial crime analytics**, and **machine learning**.  
 I turn complex data into actionable insights that enhance fraud prevention, risk management, and strategic decision-making.  
 
 ---
