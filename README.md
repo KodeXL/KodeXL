@@ -36,7 +36,7 @@ I turn complex data into actionable insights that enhance fraud prevention, risk
 ---
 
 ## 💡 Let’s Connect
-- 💼 [LinkedIn – Olamide Olayinka](https://www.linkedin.com/in/olamideolayinka/)  
+- 💼 [LinkedIn – Olamide Olayinka](https://www.linkedin.com/in/olamide-olayinka-a8222518/)  
 - 📊 [Portfolio](https://kodexl.github.io/olamideolayinka/)  
 - 📧 **olamideolayinka@cmail.carleton.ca**
 <!---
