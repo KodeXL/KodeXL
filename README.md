@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KodeXL
+- 👋 Hi, I’m @OLa
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Tools for Data Science
 
