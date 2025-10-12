@@ -16,15 +16,6 @@ I turn complex data into actionable insights that enhance fraud prevention, risk
 - ⚙️ **MLOps & Deployment** — building real-time inference APIs with **Flask** and **FastAPI**  
 - 📈 **Dashboard Design** — creating interactive analytics tools using **Plotly Dash** and **Streamlit**  
 - 🔐 **Fraud Analytics & FinCrime AI** — applying ML to AML/KYC and transaction monitoring frameworks
-   
----
-
-## 🧰 Tech Stack & Tools
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, Mathplotlib, Imbalanced-learn, XGBoost, LightGBM, Seaborn, Plotly  
-**Data Tools:** MySQL, IBM Db2, VS code, Cognos Analytics   
-**Web Frameworks:** Dash, Flask, Streamlit  
-**Compliance Platforms:** Verafin, LexisNexis ThreatMetrix, TSYS, Falcon, VCAS, SumSub.
 
 ---
 
